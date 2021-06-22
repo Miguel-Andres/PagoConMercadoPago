@@ -1,0 +1,15 @@
+GET  http://localhost:3000/api/products
+Content-Type: application/json
+
+{
+"name" : "segunda nota por ruta" , "price" :2000
+}
+
+### //aqui es una peticion fallida
+
+
+
+POST http://localhost:3000/api/products/checkout
+Content-Type: application/json
+
+
