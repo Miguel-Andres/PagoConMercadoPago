@@ -15,4 +15,4 @@ Utilice Workspace , ejecuta el script del back para iniciar , Node_modules solo 
   # :bulb:
   
   ### install last version npm >7
-  ### Necesitas tener unas credenciales de vendedor eso te dara el accses_token para poner iniciar el proyecto 
+  ### Necesitas tener unas credenciales de vendedor eso te dara el accses_token para poner iniciar el proyecto :trollface:
