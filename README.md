@@ -11,3 +11,8 @@ Utilice Workspace , ejecuta el script del back para iniciar , Node_modules solo 
 # INFO
 
   ## Aplicacion Creada para aprender a implementar API MERCADOPAGO , 
+  
+  # :bulb:
+  
+  ### install last version npm >7
+  ### Necesitas tener unas credenciales de vendedor eso te dara el accses_token para poner iniciar el proyecto 
