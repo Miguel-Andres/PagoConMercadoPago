@@ -16,3 +16,7 @@ Utilice Workspace , ejecuta el script del back para iniciar , Node_modules solo 
   
   ### install last version npm >7
   ### Necesitas tener unas credenciales de vendedor eso te dara el accses_token para poner iniciar el proyecto :trollface:
+
+
+
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_2.svg)](https://cafecito.app/mickeydev)
