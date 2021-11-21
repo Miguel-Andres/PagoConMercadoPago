@@ -8,8 +8,11 @@
     "back",
     "front"
   ],
+  "engines" :{
+    "npm" : "7.9.0"
+  },
   "scripts": {
-   "build":"npm run build --workspace=front" ,
+   "build":" npm run build --workspace=front" ,
    "start" :"npm run start --workspace=back" 
    
   },
