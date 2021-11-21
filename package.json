@@ -8,15 +8,18 @@
     "back",
     "front"
   ],
-  "engines" :{
-    "npm" : "7.9.0"
+  "engines": {
+    "npm": "7.9.0"
   },
   "scripts": {
-   "build":" npm run build --workspace=front" ,
-   "start" :"npm run start --workspace=back" 
+    "build": " npm run build --workspace=front",
+    "start": "npm run start --workspace=back" 
    
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }

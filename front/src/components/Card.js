@@ -1,5 +1,5 @@
-import React, { useState,useContext } from "react";
-import { Redirect, useHistory } from "react-router-dom"
+import React, { useState,} from "react";
+import { Redirect } from "react-router-dom"
 import {
   Flex,
   Box,
@@ -15,10 +15,10 @@ import { FiShoppingCart } from "react-icons/fi";
 
 export default function Card({ ...data }) {
  
-  const [init_point , setInit_point] = useState(null)
+  
   const [openRedirect , setOpenRedirect] = useState(false )
   
-  const history = useHistory();
+ 
 
   const comprar = (e, props) => {
     e.preventDefault();
